@@ -1,8 +1,8 @@
 # kerberos_enum_dict
 
-枚举kerberos域用户的字典
+枚举kerberos账号的字典
 
-当然用途不限于枚举域用户
+以及更多用途...
 
 # Usage
 
